@@ -3,16 +3,16 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
+title: Q小帝的折腾笔记
+subtitle: 记录下那些折腾过的岁月。
+description: 用只言片语，来记录下那些折腾过的岁月。I am here, therefore I go Z-turn.
+author: Qiu Di
+email: imcoddy[#]gmail.com
 language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://imcoddy.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -33,7 +33,7 @@ highlight:
   tab_replace:
 
 # Category & Tag
-default_category: uncategorized
+default_category: dairy
 category_map:
 tag_map:
 
@@ -57,8 +57,8 @@ logger_format:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: MMM D YYYY
-time_format: H:mm:ss
+date_format: YYYY/MM/DD
+time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -66,7 +66,7 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname:
+disqus_shortname: imcoddy
 
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
@@ -77,4 +77,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
-  type:
+  type: github
+  repository: git@github.com:imcoddy/imcoddy.github.com.git
+  branch: master

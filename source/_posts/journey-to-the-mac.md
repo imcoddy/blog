@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2013-05-19 13 13:21:28
 title: "一入果教深似海，从此折腾常相随"
 description: "月初的时候下单订了一台Mac Mini，上星期刚收到，没想到从此开始了漫漫折腾路。"
 category: Diary

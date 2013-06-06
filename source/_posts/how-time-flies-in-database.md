@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2013-06-01 13 13:21:28
 title: "How Time Flies, in Database"
 description: "前阵子遇到了一个这样的的场景：数据库中原来使用的是MySQL中的DateTime格式，不过由于有经常性的时间比较的需求，以及需要引入多时区支持方便以后扩展。因此，需要将数据库的格式从DateTime转换成Timestamp。"
 category: Diary
