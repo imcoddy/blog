@@ -1,18 +1,16 @@
 menu:
   Home: /
   Archives: /archives
-  About: /about
 
 widgets: 
 - search
 - category
 - tag
-- twitter
 
 excerpt_link: Read More
 
 twitter:
-  username: imcoddy
+  username:
   show_replies: false
   tweet_count: 5
 
@@ -26,5 +24,5 @@ addthis:
 
 fancybox: true
 
-google_analytics: UA-41226530-1
-rss: imcoddy
+google_analytics:
+rss:

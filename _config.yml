@@ -71,7 +71,7 @@ disqus_shortname: imcoddy
 # Extensions
 ## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: bright
+theme: light
 exclude_generator:
 
 # Deployment
