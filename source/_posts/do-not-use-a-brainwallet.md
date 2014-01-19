@@ -1,5 +1,6 @@
 title: Do Not Use A Brainwallet! You Are Likely To Lose Your Coins!
 date: 2014-01-18 09:55:31
+category: Bitcoin
 tags: [Bitcoin, Translation, Brainwallet, Security]
 ---
 ![brain-wallet](http://1.bp.blogspot.com/-CMGT-QTUSdM/UQW0_xXLM5I/AAAAAAAAAgk/EEVWxus9XTw/s320/brain_money_2.jpg)
