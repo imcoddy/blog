@@ -9,12 +9,18 @@ description: 用只言片语，来记录下那些折腾过的岁月。I am here,
 author: Qiu Di
 email: imcoddy[#]gmail.com
 language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://imcoddy.github.io
 root: /
 permalink: :year/:month/:day/:title/
+permalink_defaults:
+
+# Directory
+source_dir: source
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -25,8 +31,13 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 auto_spacing: false # Add spaces between asian characters and western characters
 titlecase: false # Transform title into titlecase
+external_link: true # Open external links in new tab
 max_open_file: 100
 filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
 highlight:
   enable: true
   line_number: true
@@ -69,13 +80,14 @@ pagination_dir: page
 disqus_shortname: imcoddy
 
 # Extensions
-## Plugins: https://github.com/tommy351/hexo/wiki/Plugins
-## Themes: https://github.com/tommy351/hexo/wiki/Themes
-theme: modernist
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: landscape
+#theme: modernist
 exclude_generator:
 
 # Deployment
-## Docs: http://zespia.tw/hexo/docs/deploy.html
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
   repository: git@github.com:imcoddy/imcoddy.github.com.git

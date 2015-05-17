@@ -1,13 +1,8 @@
----
-layout: post
-date: 2013-05-19 13 13:21:28
 title: "一入果教深似海，从此折腾常相随"
-description: "月初的时候下单订了一台Mac Mini，上星期刚收到，没想到从此开始了漫漫折腾路。"
-category: Diary
+date: 2013-05-19 13:21:28
 tags: [Diary, Life, Mac, Dev]
+category: Diary
 ---
-
-月初的时候下单订了一台Mac Mini，上星期刚收到，没想到从此开始了漫漫折腾路。
 
 #起因
 
@@ -44,7 +39,7 @@ Genius Bar里面的Genius们对于MAS无法更新的疑难杂症也说不出个�
 
 * 对显示器进行颜色校对。（拿着蓝牙键盘坐到两米开外的地方用上下键调节效果最佳=_=）
 * 用TinkerTool设置FondSmoothing为3。
-* 用TinkerTool设置默认字体为方正兰亭黑。 
+* 用TinkerTool设置默认字体为方正兰亭黑。
 
 至此，整个系统的显示终于正常了，泪流满面。
 
