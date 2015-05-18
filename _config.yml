@@ -104,6 +104,9 @@ feed:
 # NexT Theme configuration
 # =============================================================================
 
+# Avatar
+avatar: https://avatars2.githubusercontent.com/u/622780?v=3&s=460
+
 # Disqus
 disqus_shortname: imcoddy
 
