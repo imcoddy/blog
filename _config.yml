@@ -25,11 +25,13 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-auto_spacing: false # Add spaces between asian characters and western characters
+auto_spacing: true # Add spaces between asian characters and western characters
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 max_open_file: 100
@@ -68,7 +70,7 @@ logger_format:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY/MM/DD
+date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 
 # Pagination
@@ -76,11 +78,12 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Disqus
-disqus_shortname: imcoddy
-
 # Extensions
 ## Plugins: http://hexo.io/plugins/
+plugins:
+  hexo-generator-feed
+  hexo-generator-sitemap
+
 ## Themes: http://hexo.io/themes/
 theme: next
 exclude_generator:
@@ -96,3 +99,34 @@ feed:
   type: atom
   path: atom.xml
   limit: 20
+
+# =============================================================================
+# NexT Theme configuration
+# =============================================================================
+
+# Disqus
+disqus_shortname: imcoddy
+
+# Social networking
+social:
+  GitHub: https://github.com/imcoddy
+  Twitter: https://twitter.com/imcoddy
+  #Weibo: your-weibo-url
+  #DouBan: your-douban-url
+  #ZhiHu: your-zhihu-url
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+creative_commons: by-nc-sa
+
+# Google Analytics
+google_analytics:
+
+
+# Site since
+since: 2014
+
+# =============================================================================
+# End NexT Theme configuration
+# =============================================================================
