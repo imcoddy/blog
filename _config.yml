@@ -82,8 +82,7 @@ disqus_shortname: imcoddy
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
-#theme: modernist
+theme: next
 exclude_generator:
 
 # Deployment

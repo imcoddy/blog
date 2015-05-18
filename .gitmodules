@@ -1,3 +1,6 @@
 [submodule "themes/bright"]
 	path = themes/bright
 	url = git@github.com:imcoddy/hexo-theme-bright.git
+[submodule "themes/next"]
+	path = themes/next
+	url = git@github.com:imcoddy/hexo-theme-next.git
