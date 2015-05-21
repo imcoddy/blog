@@ -8,7 +8,7 @@ subtitle: 记录下那些折腾过的岁月。
 description: 用只言片语，来记录下那些折腾过的岁月。I am here, therefore I go Z-turn.
 author: Qiu Di
 email: imcoddy[#]gmail.com
-language:
+language: default
 timezone:
 
 # URL
@@ -124,13 +124,13 @@ social:
 creative_commons: by-nc-sa
 
 # Google Analytics
-google_analytics:
+google_analytics: UA-41226530-1
 
 # Swifttype Search
 swiftype_key: 9i_t1xRXxu3ezvVDPFut
 
 # Site since
-since: 2014
+since: 2013
 
 # =============================================================================
 # End NexT Theme configuration
