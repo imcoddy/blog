@@ -1,6 +1,7 @@
 title: Remapping My HHKB
 date: 2013-10-20 10:31:44
 tags: [Diary, HHKB, Software, Unix, Config]
+category: Tech
 ---
 入手HHKB Lite for Mac已经好几个月了，不过一直没准备为它写点什么。哈，毕竟一块薄膜键盘，和Pro2版的手感相比的确相去甚远，而为了适应这新的键盘布局也费了不少折腾。不过，配合着Mac下的必备软件KeyRemap4MacBook，经过配置一番后，终于可以和公司的Macbook Pro的键盘键位做到无痛切换了XD
 <!--more-->

@@ -1,6 +1,7 @@
 title: Powered Up From Screen To Tmux
 date: 2013-10-06 21:30:05
 tags: [Dev, Diary, Linux, Software, Unix]
+category: Tech
 ---
 
 平时在公司开发自然少不了用screen这类的远程作业工具，虽然screen可以很方便的进行detach和attach，不过在重新连接时，总是会出现Terminal恢复到默认80行宽的大小。虽然重新调整一下窗口大小并不是什么大事，只是每次这样拖动鼠标有些烦人。最近由于开新项目换了一台VM，解决了之前安装不了tmux的问题，于是便从此摈弃screen，全面投入到tmux的怀抱中。

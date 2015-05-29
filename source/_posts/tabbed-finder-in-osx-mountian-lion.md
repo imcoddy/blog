@@ -1,6 +1,7 @@
 title: Tabbed Finder in OSX Mountain Lion
 date: 2013-06-15 22:39:42
 tags: [Mac, Software, Tweak, OSX, Finder]
+category: Tech
 ---
 前几天苹果公司召开WWDC之后，大部分人都将注意力放在吐槽iOS的UI变化去了。对于这我种前几天刚惨痛升级到6.1.3的人来说，这次大会中更关心的是OSX会发生怎么样的改变。作为OSX的下一个升级版，这次停止了继续使用猫科动物来命名的方式，而换用了Mavericks。同时也对系统进行了进一步优化，比如终于在Finder里面加入了Tab的功能。
 

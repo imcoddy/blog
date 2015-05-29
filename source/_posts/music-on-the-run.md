@@ -1,6 +1,7 @@
 title: Music On The Run
 date: 2013-11-17 20:54:58
 tags: [Diary, iTunes, Music, Mac]
+category: Tech
 ---
 你还在听保存在电脑上的音乐吗？
 

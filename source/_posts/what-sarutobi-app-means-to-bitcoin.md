@@ -1,6 +1,7 @@
 title: What Sarutobi App Means to Bitcoin
 date: 2015-01-10 09:46:43
 tags: [Bitcoin, Game, App, iOS]
+category: Bitcoin
 ---
 ![SaruTori](http://media.coindesk.com/2015/01/sarutobi-630x263.png "SaruTori")
 

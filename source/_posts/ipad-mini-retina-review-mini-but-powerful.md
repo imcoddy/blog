@@ -1,6 +1,7 @@
 title: "iPad Mini Retina Review: Mini But Powerful"
 date: 2013-11-24 21:57:12
 tags: [iPad, iOS, Review]
+category: Tech
 ---
 
 拿到 iPad Mini Retina 已经一个多星期了，随便整理一下这些日子的使用感受吧。
