@@ -1,8 +1,9 @@
 title: "Atom: The Hacking Editor Of Your Choice"
 date: 2015-06-26 22:04:41
-tags: [Editor, Hack, App, Mac, OSX]
+tags: [Editor, Hack, App, Mac, OSX, Config]
 category: Tech
 ---
+![](http://i1-news.softpedia-static.com/images/news2/github-s-atom-editor-reaches-1-0-maturity-485320-2.jpg)
 经过了长达一年的 Beta 公众测试之后，Atom，这个号称可 Hack 的面向 21 世纪的文本编辑器，正式更新到了 1.0 版。虽然没有在其推出之初就用上（以前还是需要邀请码才能用的呢），但在最近刷 Leetcode 的时候，深感这款编辑器的可定制性和方便程度远超其它。而前阵子微软推出的新 IDE 和 Facebook 推出的 Nuclide 都基于 Atom，颇让人有种天下编辑器苦人久矣之感。是以在这个特别的日子里，有必要为其记上一笔。
 <!--more-->
 
@@ -165,7 +166,7 @@ category: Tech
       script:
         scrollWithOutput: false
 
-至于其它的，还可以自定义 snippets，shortcuts 之类的，就不在这里一一描述了。但从上应该已经能体会到，只要你乐意去改，很多东西都是能 Hack 的，也难怪 Atom 从一开始就定位如此了:P
+至于其它的，还可以自定义 snippets，shortcuts 之类的，就不在这里一一描述了。但从上应该已经能体会到，只要你乐意去改，很多东西都是能 Hack 的，毕竟 Atom 从一开始就定位如此了:P
 
 ## 遗憾之处
 虽然 Atom 的确有许多优秀的地方，我也通过定制尽可能地将 Vim 上的操作习惯迁移到了 Atom 上来。不过在使用 Atom 期间，还是遇到了一些小问题或不快的地方。
