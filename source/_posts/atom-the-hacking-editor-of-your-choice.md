@@ -3,7 +3,7 @@ date: 2015-06-26 22:04:41
 tags: [Editor, Hack, App, Mac, OSX, Config]
 category: Tech
 ---
-![](http://i1-news.softpedia-static.com/images/news2/github-s-atom-editor-reaches-1-0-maturity-485320-2.jpg)
+![](http://i1375.photobucket.com/albums/ag455/imcoddy/Blog/github-s-atom-editor-reaches-1-0-maturity_zpshmfxfpbo.jpg)
 经过了长达一年的 Beta 公众测试之后，Atom，这个号称可 Hack 的面向 21 世纪的文本编辑器，正式更新到了 1.0 版。虽然没有在其推出之初就用上（以前还是需要邀请码才能用的呢），但在最近刷 Leetcode 的时候，深感这款编辑器的可定制性和方便程度远超其它。而前阵子微软推出的新 IDE 和 Facebook 推出的 Nuclide 都基于 Atom，颇让人有种天下编辑器苦人久矣之感。是以在这个特别的日子里，有必要为其记上一笔。
 <!--more-->
 
