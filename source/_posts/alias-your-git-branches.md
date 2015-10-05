@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Alias For Your Git Branches"
+title: "Alias For Your Git Branches"
 date: 2015-10-05 21:23
 comments: true
 tags: [Dairy, Git, Hack, Tip]
