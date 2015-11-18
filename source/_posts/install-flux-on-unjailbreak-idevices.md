@@ -21,7 +21,7 @@ categories: Tech
 
 1. Mac OSX 10.10 系统并安装好 XCode 7 （Windows 用户可以直接把篇文章关了）。
 2. 注册成苹果的开发者（只需要免费注册一下就可以了，并不需要付费）。
-3. 下载 f.lux 的[代码](https://justgetflux.com/sideload/f.lux-xcode-master.zip)。
+3. 下载 f.lux 的[代码](https://github.com/jefferyleo/f.lux/archive/master.zip)。
 
 ## 操作
 
