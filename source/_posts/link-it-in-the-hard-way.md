@@ -68,6 +68,7 @@ Google 一番之后，发现 Stackoverflow 上有个[解答](http://stackoverflo
     ==> Summary
     🍺  /usr/local/Cellar/hardlink-osx/0.1.1: 3 files, 20K
     > hln /Users/imcoddy/Blog/source/_posts /Users/imcoddy/Dropbox/Apps/Editorial/Blog/Posts
+    > hln /Users/imcoddy/Blog/source/_drafts /Users/imcoddy/Dropbox/Apps/Editorial/Blog/Drafts
 
 然后，在 Hexo 里面新建这篇博客，打开 Atom，看着菜单栏里的 Dropbox 不时地自动同步，心情真是舒畅。
 
