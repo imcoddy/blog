@@ -1,4 +1,5 @@
 title: "Map Filco Minila Air To HHKB"
+date: 2015-07-18 22:11:51
 tags: [Keyboard, Hardware, HHKB, Karabiner, Tweak, Diary]
 category: Diary
 ---
