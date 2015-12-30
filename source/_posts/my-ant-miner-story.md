@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ant Miner"
+title: "My Ant Miner Story"
 date: 2015-12-23 17:27
 comments: true
 tags: [Dairy, Blog, Bitcoin]
@@ -36,6 +36,18 @@ categories: Blog
 ![hashnest-contract](http://i1375.photobucket.com/albums/ag455/imcoddy/Blog/hashnest-contract_zpshgxibcxm.png)
 
 当然，收益率最高的还当属 V3 合约。在推出没多久就被一扫而空。现在想想，后悔当时没多买一点。
+
+## 布局
+
+如果说生产矿机是比特大陆的立足点的话，推出 Hashnest 云挖矿以及合约则可以算是比特币金融业的拓展。
+
+事实上，Hashnest 是我使用过的比特币相关网站中数据最透明的。除了页面上清楚明了地显示当前的营收情况之外，每一笔挖矿或交易记录都有迹可寻之外，用户甚至可以非常方便地以 csv 格式下载所有的历史数据，以便轻松地导入到 Excel 进行计算。同时，为了方便随时查看收益，用户还可以下载 Hashnest 应用到手机上。
+
+而比特大陆远远没有止步于此。
+
+除了在阿拉伯国家博览会上向中东土豪积极推广新矿机 S7 之外，九月的比特大陆也是重磅消息不断：在 [正式推出比特币钱包产品](http://www.8btc.com/bitmain-btc-wallet)没几天，就宣布 [上线新产品BTC区块浏览器，并启用百万美元级域名btc.com](http://www.8btc.com/chain-btc)。从生产到应用，逐渐形成一个闭环。这自然也是出于对比特币前景的看好，从寒总的话对前阵子的大阴线的评价便可以感受 :P
+
+> 看上去是哪位空头控盘大哥想要背水一战啊。彷佛就跟项羽的垓下之战一样，“今日固决死，愿为诸君快战，必三胜之，为诸君溃围，斩将，刈旗，令诸君知天亡我，非战之罪也。”等这位大哥倒下，币价不知已经多高了。
 
 ## 感触
 
