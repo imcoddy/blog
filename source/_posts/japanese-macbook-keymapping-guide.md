@@ -6,14 +6,14 @@ comments: true
 tags: [Dairy, Mac, Hack, Tip, Keyboard]
 categories: Tech
 ---
-![http://g01.a.alicdn.com/kf/HTB1NuHOIpXXXXaFXVXXq6xXFXXXH/Laptop-Palmrest-With-JA-JP-Japanese-font-b-Layout-b-font-font-b-Keyboard-b-font.jpg]()
+![](http://g01.a.alicdn.com/kf/HTB1NuHOIpXXXXaFXVXXq6xXFXXXH/Laptop-Palmrest-With-JA-JP-Japanese-font-b-Layout-b-font-font-b-Keyboard-b-font.jpg)
 过年之前撸了一台 2014 出的日版的 Macbook Pro Retina。之所以没有选 2015 的新款，是觉得多出来的 Force Touch 触摸板以及那小幅度提升的性能不值得那近两万日元的差价，而选择日版也是因为英文键盘版的只能在苹果里买而没有优惠。虽然事前也担心了一下日文键盘是否能适应，不过实践证明其实这反而更加方便。事前如果还有有人顾虑的话，只需要参照本文所说的配置就可毫无压力地用日文键盘输入了。
 <!--more-->
 
 首先，普及一下背景知识。由于日文输入特殊性，日本的大部分电脑都是配着带片假名的日文键盘。平心而论，它本身还是有一定的便利性的，例如空格左右的「英数」和「かな」键可以方便地快速切换输入法，对于经常要输入日文的同学来说很有必要。而它的缺点也同样明显，数字区和右手边的符号基本和普通的英式键盘完全不一致，需要记住另外一套指法，而且如果要经常换键盘来回切换的话容易得精神分裂症:P
 
 日本键盘和英文键盘的具体差异如下：
-![http://blog-imgs-71-origin.fc2.com/g/o/k/gokexn/20110715_ss04.png]()
+![](http://blog-imgs-71-origin.fc2.com/g/o/k/gokexn/20110715_ss04.png)
 
 当然，由于有了 Karabiner 这样的神器，日文键盘上完美模拟英文键盘的输入快感也不是难事。具体的步骤如下（安装过程略过）：
 
